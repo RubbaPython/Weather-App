@@ -27,7 +27,7 @@ Simple app, that shows weather based on the given address
  
  #### Alternatively:
  
- App was deployed to Heroku and you can check it here:
+ App was also deployed to Heroku and you can check it here:
  
 [Weather-App]( https://stserb-weather-application.herokuapp.com/)
 
