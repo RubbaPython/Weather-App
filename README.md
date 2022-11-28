@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-App 🌡️
 Simple app, that shows weather based on the given address 
 ## Table of Contents
 + [Introduction](#Introduction)  
