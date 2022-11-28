@@ -1,0 +1,84 @@
+body{
+  color: #333333;
+  font-family: arial;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+}
+
+.main-content{
+flex-grow: 1;
+}
+
+footer{
+  color: #888888;
+  border-top: 1px solid #eeeeee;
+  margin-top: 16px;
+  padding: 16px 0;
+}
+
+header{
+  margin: 16px 0;
+}
+
+h1{
+font-size: 64px;
+margin-bottom: 16px;
+}
+header div a{
+  color: #888888;
+  text-decoration: none;
+  margin-right: 16px;
+  font-size: 20px;
+}
+
+form{
+  margin-top: 30px;
+}
+
+.Messages{
+  margin-top: 50px;
+}
+
+.img { 
+  display: none;
+}
+
+.messageIcon{
+  display: inline-block;
+}
+
+#messageOne{
+font-size: 30px;
+}
+
+#messageTwo{
+font-size: 30px;
+font-family: arial;
+}
+
+header div{
+  margin-bottom: 30px;
+}
+
+#p1{
+  font-size: 20px;
+}
+
+label{
+  font-size: 20px;
+}
+
+input{
+  font-size: 18px;
+}
+button{
+  font-size: 18px;
+}
+
+#help-p{
+  font-size: 20px;
+}
